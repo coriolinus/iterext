@@ -39,3 +39,8 @@ fn test_padding_chars() {
     assert_eq!(have, "fooXX");
 }
 ```
+
+## Provenance
+
+Originally wrote these extensions as part of the [`textbyte`](https://github.com/coriolinus/solitaire/blob/master/src/textbyte.rs)
+module for my [`solitaire`](https://github.com/coriolinus/solitaire/) implementation.

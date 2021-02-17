@@ -1,4 +1,4 @@
-# `iterext`: A few more extension methods on itertors.
+# `iterext`: A few more extension methods on iterators.
 
 This crate is not likely to ever be published on <https://crates.io> because it's
 far more appropriate to attepmt to get these extensions added to

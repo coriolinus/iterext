@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Peter Goodspeed-Niklaus <peter.r.goodspeedniklaus@gmail.com>"]
 edition = "2018"
 license = "MIT"
+description = "Padding and separation extensions to iterators"
+repository = "https://github.com/coriolinus/iterext"
 
 [dependencies]
 itertools = "0.10.0"
